@@ -1,3 +1,1 @@
 # EGSOccupancy
-
-Created with CodeSandbox
